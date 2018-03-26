@@ -1,0 +1,9 @@
+c:\users\eczio\source\repos\oop3\oop3\obj\Debug\oop3.csprojResolveAssemblyReference.cache
+c:\users\eczio\source\repos\oop3\oop3\obj\Debug\oop3.csproj.CoreCompileInputs.cache
+c:\users\eczio\source\repos\oop3\oop3\bin\Debug\oop3.exe.config
+c:\users\eczio\source\repos\oop3\oop3\bin\Debug\oop3.exe
+c:\users\eczio\source\repos\oop3\oop3\bin\Debug\oop3.pdb
+c:\users\eczio\source\repos\oop3\oop3\obj\Debug\oop3.exe
+c:\users\eczio\source\repos\oop3\oop3\obj\Debug\oop3.pdb
+C:\Users\eczio\source\repos\oop3\oop3\bin\Debug\oop3.exe.CodeAnalysisLog.xml
+C:\Users\eczio\source\repos\oop3\oop3\bin\Debug\oop3.exe.lastcodeanalysissucceeded
